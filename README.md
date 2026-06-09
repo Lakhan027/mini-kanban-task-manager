@@ -107,14 +107,4 @@ VITE_API_URL=http://localhost:5000
 
 ---
 
-## 📸 Screenshot
 
-![Kanban Task Manager](https://via.placeholder.com/800x400?text=Kanban+Task+Manager)
-
----
-
-## 👤 Author
-
-**Lakhan Sharma**
-- Email: lakhan.sharma@perimattic.com
-- GitHub: [@Lakhan027](https://github.com/Lakhan027)
