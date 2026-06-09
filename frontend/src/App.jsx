@@ -68,7 +68,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="app-title">📋 Kanban Task Manager</h1>
+      <h1 className="app-title">📋 Mini Kanban Task Manager</h1>
 
       <AddTask onAdd={addTask} />
 
