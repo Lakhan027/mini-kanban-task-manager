@@ -4,7 +4,9 @@ import AddTask from './components/AddTask'
 import TaskColumn from './components/TaskColumn'
 import './App.css'
 
-const API = 'http://localhost:5000'
+const API = import.meta.env.VITE_API_URL 
+
+console.log('Using API URL:', API)
 
 function App() {
   const [tasks, setTasks] = useState([])
